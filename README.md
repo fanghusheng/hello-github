@@ -5,3 +5,4 @@ this is my first repository,I want to learn how to use github。
 我修改了这个文件。
 之前的忘了，重新看下。
 参考：https://geo-python.github.io/site/lessons/L2/git-basics.html
+     https://swcarpentry.github.io/git-novice/
